@@ -1,0 +1,61 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: rgb(193, 218, 218)
+}
+.navbar {
+    position: fixed;
+    background: silver;
+    padding: 0;
+    text-align: center;
+    width: 96.45%;
+    
+}
+
+.header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: whitesmoke;
+    width: 96%;
+
+}
+
+li {
+    display: inline-block;
+    position: relative;
+
+}
+.leftColumn {
+    position: relative;
+    top: 50px;
+    float: left;
+    width: 25%;
+    background: silver;
+
+}
+.middleColumn {
+    position: relative;
+    top: 50px;
+    float: left;
+    width: 50%;
+    
+}
+.rightColumn {
+    position: relative;
+    top: 50px;
+    float: left;
+    width: 25%;
+    background: silver;
+}
+h2 {
+    text-align: center;
+}
+.landscape {
+    float: left;
+    padding: 0 20px 20px 0px;
+    width: 200px;
+}
+.footer {
+    display: block;
+}
